@@ -1,0 +1,6 @@
+# Netlify config — C.L. Bailey Guidelines Engine
+# Publishes ONLY the portal/ folder; the spec + guardrails stay in the repo
+# but are never served on the live site.
+[build]
+  publish = "portal"
+  command = ""
