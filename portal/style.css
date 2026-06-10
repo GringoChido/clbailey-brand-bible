@@ -360,7 +360,50 @@ table.files .fname { font-family: ui-monospace, "SF Mono", Menlo, monospace; col
 .cb-mark.retailer small { font-size: .5rem; letter-spacing: .3em; color: var(--clb-slate-dim); vertical-align: baseline; font-weight: 600; }
 .cb-divider { width: 2px; align-self: stretch; background: var(--clb-slate); }
 
-/* ---------- 20. RESPONSIVE -------------------------------------- */
+/* ---------- 20. REAL LOGO INTEGRATION --------------------------- */
+.logo-plate {
+  display: inline-flex; align-items: center;
+  background: var(--clb-bone); border-radius: 6px; padding: 6px 12px;
+}
+.logo-plate img { height: 34px; width: auto; display: block; }
+.brandmark-tag small {
+  font-family: var(--sans); font-size: .5rem; letter-spacing: .28em;
+  color: var(--clb-slate); font-weight: 600; white-space: nowrap;
+}
+.foot-logo img { height: 40px; }
+
+.logo-showcase {
+  background: var(--surface); border: 1px solid var(--rule); border-radius: var(--radius);
+  padding: var(--sp-4); box-shadow: var(--shadow); margin-bottom: var(--sp-3); text-align: center;
+}
+.logo-showcase img { max-width: min(560px, 100%); margin-inline: auto; }
+.logo-showcase .lcap {
+  font-size: var(--fs-caption); color: var(--ink-soft); max-width: 60ch;
+  margin: var(--sp-3) auto 0; text-align: left;
+}
+
+.cs-mark { background: var(--clb-bone); border: 0; padding: 0; }
+.cs-mark img { max-width: 240px; width: 100%; display: block; }
+
+.cb-mark img { max-width: 220px; width: 100%; display: block; }
+
+/* ---------- 21. FAMILY OF BRANDS -------------------------------- */
+.brandfam { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: var(--sp-2); }
+.fam-card {
+  background: var(--surface); border: 1px solid var(--rule); border-radius: var(--radius);
+  overflow: hidden; box-shadow: var(--shadow); transition: var(--trans);
+}
+.fam-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-lift); }
+.fam-stage {
+  display: grid; place-items: center; background: #FFFFFF;
+  padding: var(--sp-3); min-height: 130px; border-bottom: 1px solid var(--rule);
+}
+.fam-stage img { max-width: 180px; max-height: 96px; width: auto; height: auto; }
+.fam-card figcaption { padding: 12px 16px; font-size: var(--fs-caption); }
+.fam-card figcaption strong { display: block; color: var(--ink); }
+.fam-card figcaption span { color: var(--ink-soft); }
+
+/* ---------- 22. RESPONSIVE -------------------------------------- */
 @media (max-width: 720px) {
   .split-2, .dodont { grid-template-columns: 1fr; }
   .cb-stage { gap: var(--sp-2); }
