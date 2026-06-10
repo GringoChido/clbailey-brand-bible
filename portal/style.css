@@ -361,16 +361,13 @@ table.files .fname { font-family: ui-monospace, "SF Mono", Menlo, monospace; col
 .cb-divider { width: 2px; align-self: stretch; background: var(--clb-slate); }
 
 /* ---------- 20. REAL LOGO INTEGRATION --------------------------- */
-.logo-plate {
-  display: inline-flex; align-items: center;
-  background: var(--clb-bone); border-radius: 6px; padding: 6px 12px;
-}
-.logo-plate img { height: 34px; width: auto; display: block; }
+.logo-plate { display: inline-flex; align-items: center; padding: 8px 0; }
+.logo-plate img { height: 64px; width: auto; display: block; }
 .brandmark-tag small {
   font-family: var(--sans); font-size: .5rem; letter-spacing: .28em;
   color: var(--clb-slate); font-weight: 600; white-space: nowrap;
 }
-.foot-logo img { height: 40px; }
+.foot-logo img { height: 56px; }
 
 .logo-showcase {
   background: var(--surface); border: 1px solid var(--rule); border-radius: var(--radius);
@@ -405,6 +402,7 @@ table.files .fname { font-family: ui-monospace, "SF Mono", Menlo, monospace; col
 
 /* ---------- 22. RESPONSIVE -------------------------------------- */
 @media (max-width: 720px) {
+  .logo-plate img { height: 48px; }
   .split-2, .dodont { grid-template-columns: 1fr; }
   .cb-stage { gap: var(--sp-2); }
   .cb-divider { width: 60%; height: 2px; align-self: center; }
