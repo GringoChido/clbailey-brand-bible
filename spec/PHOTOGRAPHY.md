@@ -12,7 +12,7 @@
 The live image library is a blend of three incompatible photographic generations:
 
 1. **Legacy catalog photography.** Bright, flat, daylight-flooded rooms; burgundy felt; striped rugs; staged family models (e.g., the Viking collection hero with four kids around a burgundy-felt table). Reads as 2010s furniture catalog. Violates §2.6 color grade (cool, over-lit, no protected shadows).
-2. **AI-generated lifestyle imagery (Nano Banana).** The dominant new layer: emerald-library Skylar rooms, brick-loft Viking scenes, desert-modern dinner parties, golden-hour sunset shots. Often beautiful in isolation — but inconsistent with each other and with the legacy layer.
+2. **AI-generated lifestyle imagery (Nano Banana).** The dominant new layer: green-library Skylar rooms, brick-loft Viking scenes, desert-modern dinner parties, golden-hour sunset shots. Often beautiful in isolation — but inconsistent with each other and with the legacy layer.
 3. **Stock-flavored one-offs.** The bright-blue-felt overhead loft shot in the Interior Designers section; the LED-lit black-felt penthouse shot in the Skylar gallery. Neither belongs to any collection world.
 
 ## A.2 Findings, by severity
@@ -32,7 +32,7 @@ Anyone who right-clicks an image — a dealer, a competitor, a journalist — ca
 §8.3 states AI imagery is for *concepting and mood only* and "MUST NOT be passed off as photographs of actual product in dealer-facing or paid assets." The homepage hero rotation, collection pages, and product galleries are dealer-facing surfaces running AI imagery as primary product representation. Either the policy changes (see Part B §10.6 for the governed version) or the imagery does. The current state — policy says one thing, flagship surface does another — is the worst of both.
 
 **F-3. Felt color chaos.**
-Across the assessed pages the playing surface appears in burgundy, bright blue, purple, black, graphite, tan/cream, and green. The bible names Deep Heritage Emerald "the color of championship felt" and the governing anchor. The single most recognizable square footage in any photograph — the felt — is currently the least controlled brand surface.
+Across the assessed pages the playing surface appears in burgundy, bright blue, purple, black, graphite, tan/cream, and green. The mark itself letters the brand in Heritage Green (`#006840`) — the brand owns one green. The single most recognizable square footage in any photograph — the felt — is currently the least controlled brand surface.
 
 ### HIGH
 
@@ -58,7 +58,7 @@ Multiple slots render as blank beige for seconds (lazy-load with no LQIP placeho
 
 ## A.3 What's working
 
-To be kept and built on: the **emerald-walled Skylar library scenes** are the closest thing to a correct brand world — warm, lamp-lit, emerald-anchored, furniture-not-equipment. The **moody craft/hands imagery** direction is right even if the current execution is generic. The site's typography-led design carries heritage; the photography just needs to live in the same house.
+To be kept and built on: the **green-walled Skylar library scenes** are the closest thing to a correct brand world — warm, lamp-lit, green-felted, furniture-not-equipment. The **moody craft/hands imagery** direction is right even if the current execution is generic. The site's typography-led design carries heritage; the photography just needs to live in the same house.
 
 ---
 
@@ -68,7 +68,7 @@ To be kept and built on: the **emerald-walled Skylar library scenes** are the cl
 
 ## 10.1 The One-Sentence Standard
 
-**Every C.L. Bailey photograph is a warm, lamp-lit room in one believable Texas home, where solid hardwood furniture is being lived with — and the felt is emerald.**
+**Every C.L. Bailey photograph is a warm, lamp-lit room in one believable Texas home, where solid hardwood furniture is being lived with — and the felt is Heritage Green.**
 
 ## 10.2 The Shot Taxonomy
 
@@ -81,24 +81,25 @@ Six shot types. Every asset in the library is exactly one of these.
 | 3 | **Craft Macro** | `Macro` | Grain, joinery, slate edge, finish coat, brass nameplate. | Shallow DOF. Wood grain MUST be legible (§2.6). |
 | 4 | **Conversion Demo** | `Demo` | The dining top deployed — sequence or pair (felt → dinner). | Required once per collection. Photograph, never render. |
 | 5 | **Workshop / Provenance** | `Shop` | The Tomball floor: saws, finish room, leveling, the makers. | Real only. AI is banned for this type without exception. |
-| 6 | **Product Study** | `Study` | Clean three-quarter and detail views on a quiet, warm ground. | Never white-seamless (§2.6 "never"). Bone or wood-toned environment. |
+| 6 | **Product Study** | `Study` | Clean three-quarter and detail views on a quiet, warm ground. | Never white-seamless (§2.6 "never"). Warm White or wood-toned environment. |
 
 Social grid rhythm (§4.1) maps to types 1/3/2. Paid asset groups (§6) require types 1, 3, and 4.
 
 ## 10.3 Light, Color, Felt
 
 - **Light:** Warm ambient — golden-hour window light, lamps, hearth. Practical sources visible in frame where natural. Never cold strobe, never midday flat-bright, never LED-strip "games room" lighting.
-- **Grade:** Warm white balance, 4800–5200K feel. Protected shadows — moody is correct, crushed is not. No pure `#000` blacks (honor Cast Iron `#2B2B28`). Emerald and wood tones true-to-finish; no saturation pushes.
-- **Felt:** **Deep Heritage Emerald is the default playing surface in all brand photography.** A second approved felt may appear only when the image's explicit subject is the felt program (Module: Felt/Velocity Pro) — never as set dressing. Burgundy, blue, purple, black, and tan felts are retired from brand imagery. This single rule does more for shelf-recognition than any logo placement.
-- **Palette discipline:** Rooms are dressed inside the brand system — emerald, bone, iron, the three wood tones, brass and slate accents. A prop color outside the system must be incidental, never dominant.
+- **Grade:** Warm white balance, 4800–5200K feel. Protected shadows — moody is correct, crushed is not. No pure `#000` blacks (honor Deep Charcoal `#1C1C1E`). Felt green and wood tones true-to-finish; no saturation pushes.
+- **Felt:** **Heritage Green (`#006840`) — the green of the mark's lettering — is the default playing surface in all brand photography.** A second approved felt may appear only when the image's explicit subject is the felt program (Module: Felt/Velocity Pro) — never as set dressing. Burgundy, blue, purple, black, and tan felts are retired from brand imagery. This single rule does more for shelf-recognition than any logo placement.
+- **Palette discipline:** Rooms are dressed inside the brand system — warm whites, sand, charcoal iron, the wood finishes, and bronze accents. The green felt is the room's single saturated note; a prop color outside the system must be incidental, never dominant.
 
 ## 10.4 One Collection, One House
 
 Each collection lives in **one architectural world**, documented as a one-page "room bible" (location, light, wall color, flooring, props) before any shoot or generation:
 
-- **Skylar** — *the modern emerald library.* Clean-lined contemporary home; emerald millwork; brass and linen; morning-to-lamplight range. (The existing emerald Skylar scenes are the seed — keep them.)
+- **Skylar** — *the modern green library.* Clean-lined contemporary home; deep-green millwork; brass and linen; morning-to-lamplight range. (The existing green-walled Skylar scenes are the seed — keep them.)
 - **Viking** — *the Texas hill-country lodge.* Stone, timber, forged iron; big hearth; dusk and firelight. Replaces both the beach-house catalog world and the Manhattan loft world.
 - **Tunbridge** — *the transitional family home.* Warm whites, weathered brown, generational mix; Sunday-afternoon light.
+- **Dutchess** — *world to be defined.* No room bible exists yet; one MUST be written and approved before the next Dutchess shoot or generation ships.
 
 Rules: no skylines that aren't Texan, no desert-modern unless a collection world is explicitly defined there, no white-box lofts. A new world requires the same written approval as a new brand color (§2.2).
 
@@ -150,7 +151,7 @@ CLB-[Collection|Module]-[ShotType]-[Subject]-[Source]-vNN.[ext]
 No image ships to any public or dealer surface until every box is checked:
 
 - [ ] Maps to exactly one §10.2 shot type
-- [ ] Felt is emerald (or image is an approved felt-program asset)
+- [ ] Felt is Heritage Green (or image is an approved felt-program asset)
 - [ ] Light and grade meet §10.3 (warm, protected shadows, true tones)
 - [ ] Setting belongs to the collection's documented world (§10.4)
 - [ ] Wood grain legible; product proportions true; pockets/legs/rails anatomically correct
@@ -162,7 +163,7 @@ No image ships to any public or dealer surface until every box is checked:
 ## 10.9 Remediation Priorities
 
 1. **This week — kill F-1.** Rename every `Nano_Banana` / prompt-text file in ImageKit and update site references. This is exposure, not polish.
-2. **Next 30 days.** Retire off-felt and off-world imagery from primary surfaces (homepage rotation, collection heroes); standardize on the emerald-felt assets that already exist; write the three room bibles (§10.4); fix transforms + LQIP.
+2. **Next 30 days.** Retire off-felt and off-world imagery from primary surfaces (homepage rotation, collection heroes); standardize on the green-felt assets that already exist; write the three room bibles (§10.4); fix transforms + LQIP.
 3. **Next quarter.** Commission the one shoot that AI cannot do: **two days in the Tomball workshop** (type 5) plus one real Conversion Demo sequence per collection (type 4). These become the proof layer under the generated lifestyle layer — and the only image set no competitor can copy.
 
 ---

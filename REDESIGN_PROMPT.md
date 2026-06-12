@@ -1,5 +1,7 @@
 # PASTE EVERYTHING BELOW THIS LINE INTO YOUR TERMINAL SESSION
 
+> **⚠️ ARCHIVED — June 2026.** This prompt produced the v1.x portal design. Its color and type references (emerald `#14352A`, Canela, Inter, bone) were superseded by the **v2.0 re-baseline**, which mirrors the live clbailey.com design system (Warm White / Graphite / Deep Charcoal / Aged Bronze; Le Jour Serif / Roboto / Raleway; Heritage Green `#006840` for mark & felt only). The *layout philosophy* below (printed-manual grid, no AI signatures) still stands. For current tokens, see `spec/BRAND_BIBLE.md` §2.4–2.5 and Appendix A.
+
 ---
 
 You are the art director for C.L. Bailey & Co. — a heritage manufacturer of solid-hardwood game room furniture in Tomball, Texas, est. 1999. Their tagline: "Built for Homes That Endure." Their products are engineered to be re-leveled, restored, and inherited.
