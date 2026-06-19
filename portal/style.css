@@ -291,7 +291,7 @@ code {
   display: inline-block;
   margin-top: var(--sp-4);
   font-family: var(--serif);
-  font-size: var(--fs-h3);   /* Le Jour Serif is never italicized (§2.5.1) — the brass underline carries the emphasis */
+  font-size: var(--fs-h2);   /* Le Jour Serif is never italicized (§2.5.1) — the brass underline carries the emphasis */
   color: var(--bronze);      /* Bronze on Deep Charcoal = 5.7:1, AA — permitted on dark grounds */
   padding-bottom: 6px;
   border-bottom: 2px solid var(--bronze);
